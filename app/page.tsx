@@ -24,13 +24,13 @@ export default function ComingSoonPage() {
             Banquetable
           </h1>
           <p className="text-white/90 text-base sm:text-lg text-center leading-relaxed font-light drop-shadow-md">
-            Book your next gathering in minutes.
+           Please contact <a href="mailto:founder@banquetable.com" className="text-white/90 hover:text-white">founder@banquetable.com</a> for more info.
           </p>
           <div className="flex flex-col items-center gap-3 mt-4">
             <p className="text-white/80 text-xs sm:text-sm tracking-[0.3em] uppercase font-light drop-shadow-md mb-2">
               Coming Soon
             </p>
-            <div className="flex flex-col sm:flex-row gap-3 w-full sm:w-auto">
+            {/* <div className="flex flex-col sm:flex-row gap-3 w-full sm:w-auto">
               <button className="flex items-center justify-center gap-2 bg-[#20262B] hover:bg-white text-white hover:text-[#20262B] px-6 py-3 rounded-lg transition-all duration-300 hover:scale-105 active:scale-95 drop-shadow-lg min-w-[180px]">
                 <Apple className="w-5 h-5" />
                 <span className="text-sm font-light tracking-wide">Download iOS</span>
@@ -41,7 +41,7 @@ export default function ComingSoonPage() {
                 </svg>
                 <span className="text-sm font-light tracking-wide">Download Android</span>
               </button>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
