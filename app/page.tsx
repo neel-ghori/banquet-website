@@ -27,7 +27,7 @@ export default function ComingSoonPage() {
            Please contact <a href="mailto:founder@banquetable.com" className="text-white/90 hover:text-white">founder@banquetable.com</a> for more info.
           </p>
           <p className="text-white/90 text-base sm:text-lg text-center leading-relaxed font-light drop-shadow-md">
-          created and maintained by <a href="http://www.dndinfotechllp.com" className="text-white/90 hover:text-white">DND Infotech LLP</a>
+          Created and Maintained by <a href="http://www.dndinfotechllp.com" target="_blank" className="text-white/90 hover:text-white">DND Infotech LLP</a>
           </p>
           <div className="flex flex-col items-center gap-3 mt-4">
             <p className="text-white/80 text-xs sm:text-sm tracking-[0.3em] uppercase font-light drop-shadow-md mb-2">
